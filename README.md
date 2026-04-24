@@ -8,6 +8,8 @@ The dataset contains over 49,000 international matches played between national t
 ---
 
 ## 📂 Dataset Description
+Dataset link: https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+
 The dataset includes the following key features:
 
 - **Date** – The day the match was played  
